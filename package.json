@@ -1,7 +1,7 @@
 {
   "name": "insomnia-plugin-nanoid",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "author": "Roel Vaneyghen <roel@vaneyghen.be>",
   "insomnia": {
     "name": "nanoid",
