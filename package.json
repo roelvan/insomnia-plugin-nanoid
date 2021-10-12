@@ -1,0 +1,21 @@
+{
+  "name": "insomnia-plugin-nanoid",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Roel Vaneyghen <roel@vaneyghen.be>",
+  "insomnia": {
+    "name": "nanoid",
+    "displayName": "Nanoid",
+    "description": "Generate nanoid's",
+    "images": {
+      "icon": "logo.svg"
+    },
+    "publisher": {
+      "name": "Roel Vaneyghen"
+    }
+  },
+  "main": "main.js",
+  "dependencies": {
+    "nanoid": "^3.1.29"
+  }
+}
